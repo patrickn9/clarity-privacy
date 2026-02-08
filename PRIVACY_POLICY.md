@@ -90,8 +90,8 @@ This app complies with:
 
 If you have questions about this Privacy Policy or how we handle your data:
 
-**Email**: [YOUR EMAIL HERE]
-**App Support**: [YOUR SUPPORT URL HERE]
+**Email**: weloveyourbrain@clarity-ai.org
+**App Support**: weloveyourbrain@clarity-ai.org
 
 ## Apple Health Disclaimer
 
